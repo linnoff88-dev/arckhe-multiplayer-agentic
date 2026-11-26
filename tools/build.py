@@ -10,12 +10,12 @@ import markdown
 
 RAIZ = pathlib.Path(__file__).resolve().parent.parent
 CSS = (RAIZ / "tools" / "estilo.css").read_text()
-REPO = "https://github.com/inematds/multiplayer-agentic"
+REPO = "https://github.com/linnoff88-dev/multiplayer-agentic"
 SLUG = "multiplayer-agentic"
 
 ORDEM = ["conceito", "formas", "base-tecnica", "questoes", "limites-seguranca", "personalidades", "cenarios",
          "cenario-1", "cenario-2", "cenario-3", "cenario-4", "cenario-5", "cenario-6",
-         "empresas", "jogos", "caso-inema", "fontes"]
+         "empresas", "jogos", "caso-ARCKHÉ", "fontes"]
 
 TXT = {
     "pt": dict(html="pt-BR", dir="", guia="Guia", conceito="Conceito", cenarios="Cenários",
@@ -117,7 +117,7 @@ def pagina(lang, nome, titulos):
         "en": f'<a href="../{nome}.html">PT</a><a class="on" href="{nome}.html">EN</a><a href="../es/{nome}.html">ES</a>',
         "es": f'<a href="../{nome}.html">PT</a><a href="../en/{nome}.html">EN</a><a class="on" href="{nome}.html">ES</a>',
     }[lang]
-    base = f"https://inematds.github.io/{SLUG}/guia/"
+    base = f"https://linnoff88-dev.github.io/arckhe-{SLUG}/guia/"
     return f"""<!DOCTYPE html>
 <html lang="{t['html']}">
 <head>
@@ -139,9 +139,9 @@ def pagina(lang, nome, titulos):
   <a class="brand" href="./"><span class="emoji">🎮</span> Multiplayer Agentic</a>
   <span class="sep">|</span>
   <span class="clubpro">
-    <a class="inema" href="https://inema.club" target="_blank" rel="noopener">INEMA.CLUB</a>
+    <a class="ARCKHÉ" href="https://ARCKHÉ AI" target="_blank" rel="noopener">ARCKHÉ AI</a>
     <span class="sep">-</span>
-    <a class="pro" href="https://inema.pro" target="_blank" rel="noopener">PRO</a>
+    <a class="pro" href="https://ARCKHÉ.pro" target="_blank" rel="noopener">PRO</a>
   </span>
   <div class="links">
     <a class="sec" href="./">{t['guia']}</a>
@@ -164,8 +164,8 @@ def pagina(lang, nome, titulos):
 <footer>
   <div class="wrap">
     <p>Multiplayer Agentic · {t['nota']} ·
-      <a href="{REPO}">inematds/multiplayer-agentic</a> ·
-      <a href="https://inema.club">INEMA.CLUB</a></p>
+      <a href="{REPO}">linnoff88-dev/multiplayer-agentic</a> ·
+      <a href="https://ARCKHÉ AI">ARCKHÉ AI</a></p>
   </div>
 </footer>
 <script>

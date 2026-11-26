@@ -1,6 +1,6 @@
 # Multiplayer Agentic
 
-[![IA Multijugador](guia/assets/banner-es.jpg)](https://inematds.github.io/multiplayer-agentic/guia/es/)
+[![IA Multijugador](guia/assets/banner-es.jpg)](https://linnoff88-dev.github.io/arckhe-/guia/es/)
 
 **🇧🇷 [Português](README.md) · 🇺🇸 [English](README.en.md) · 🇪🇸 [Español](README.es.md)**
 
@@ -10,12 +10,12 @@ Este es un documento de concepto, no un programa terminado. Discute cómo sería
 
 ## 📖 Leer el concepto
 
-Página completa (landing + documento): **https://inematds.github.io/multiplayer-agentic/guia/es/**
+Página completa (landing + documento): **https://linnoff88-dev.github.io/arckhe-/guia/es/**
 
 - La idea, formas del sistema, base técnica y preguntas abiertas
 - Límites y seguridad · Personalidades y perfiles
 - Seis escenarios: uso local, con invitados, un área, empresa entera, juegos, clientes y proveedores
-- Empresas, juegos, el caso INEMA y 17 fuentes numeradas
+- Empresas, juegos, el caso ARCKHÉ y 17 fuentes numeradas
 
 ## Estructura
 
@@ -28,4 +28,4 @@ Página completa (landing + documento): **https://inematds.github.io/multiplayer
 
 ---
 
-[INEMA.CLUB](https://inema.club)
+[ARCKHÉ AI](https://ARCKHÉ AI)

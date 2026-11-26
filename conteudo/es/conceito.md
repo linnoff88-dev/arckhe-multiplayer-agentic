@@ -28,4 +28,4 @@ Lo que muestra el video:
 - El propio video admite que todo esto ya se podía armar antes, solo que con más esfuerzo técnico.
 - La categoría todavía se está formando [5]. Buzz se declara inacabado [1][3].
 
-**Pregunta abierta:** ¿la ganancia principal es colaborar (varias personas) u observar (una persona viendo varios agentes)? En el caso INEMA, hoy lo segundo parece pesar más.
+**Pregunta abierta:** ¿la ganancia principal es colaborar (varias personas) u observar (una persona viendo varios agentes)? En el caso ARCKHÉ, hoy lo segundo parece pesar más.

@@ -1,10 +1,10 @@
 # Handoff — 2026-10-15 — Conceito multiplayer agentic: site PT pronto, EN/ES traduzindo, falta publicar
 
 ## Projeto e escopo
-Projeto ~/projetos/multiplayer-agentic (conceito, sem código de produto): sistema onde pessoas, agentes de IA e bots do Telegram dividem canais. O Nei pediu documento de discussêo com possibilidades e fontes, 6 cenários, limites/segurança/personalidades, páginas de conteúdo além do guia, e publicar no portal e no grupo INEMA.AGENTES do Telegram. Nêo citar a ferramenta do vídeo de origem (Kylan).
+Projeto ~/projetos/multiplayer-agentic (conceito, sem código de produto): sistema onde pessoas, agentes de IA e bots do Telegram dividem canais. O Nei pediu documento de discussêo com possibilidades e fontes, 6 cenários, limites/segurança/personalidades, páginas de conteúdo além do guia, e publicar no portal e no grupo ARCKHÉ.AGENTES do Telegram. Nêo citar a ferramenta do vídeo de origem (Kylan).
 
 ## Objetivo atual
-Publicar: repo inematds/multiplayer-agentic público + GitHub Pages (guia/ PT/EN/ES), card no portal (atualiza-portal, + EN/ES em translated-courses.ts) e tópico no INEMA.AGENTES (postar-telegram). Pronto = 3 URLs /guia/, /guia/en/, /guia/es/ respondendo 200, portal com push, tópico + MENU no Telegram.
+Publicar: repo linnoff88-dev/multiplayer-agentic público + GitHub Pages (guia/ PT/EN/ES), card no portal (atualiza-portal, + EN/ES em translated-courses.ts) e tópico no ARCKHÉ.AGENTES (postar-telegram). Pronto = 3 URLs /guia/, /guia/en/, /guia/es/ respondendo 200, portal com push, tópico + MENU no Telegram.
 
 ## Estado aceito
 - [confirmed] CONCEITO.md v0.3 com seções 1–12 + 17 fontes — CONCEITO.md
@@ -21,7 +21,7 @@ Publicar: repo inematds/multiplayer-agentic público + GitHub Pages (guia/ PT/EN
 ## Decisões e restrições
 - Página = landing guia/index.html + páginas de conteúdo em guia/*.html (nêo um único guia) — pedido do Nei
 - Kylan removido de tudo — pedido do Nei
-- Autor dos commits inematds <inematds@gmail.com>; push de .github/workflows exige SSH (token gh inematds sem escopo workflow)
+- Autor dos commits linnoff88-dev <linnoff88-dev@gmail.com>; push de .github/workflows exige SSH (token gh linnoff88-dev sem escopo workflow)
 - Repo precisa ser público para Pages; o Nei pediu publicaçêo
 
 ## Arquivos alterados
@@ -45,7 +45,7 @@ Publicar: repo inematds/multiplayer-agentic público + GitHub Pages (guia/ PT/EN
 - Aberta: nenhuma (publicaçêo já pedida pelo Nei)
 
 ## Próxima açêo exata
-Ao terminarem as traduções: python3 tools/build.py && node tools/checar.cjs (todos OK) → git init, user inematds local, commit, gh repo create inematds/multiplayer-agentic --public, push via SSH, gh api pages build_type=workflow, conferir 3 URLs → skill atualiza-portal (+EN/ES) → skill postar-telegram no INEMA.AGENTES.
+Ao terminarem as traduções: python3 tools/build.py && node tools/checar.cjs (todos OK) → git init, user linnoff88-dev local, commit, gh repo create linnoff88-dev/multiplayer-agentic --public, push via SSH, gh api pages build_type=workflow, conferir 3 URLs → skill atualiza-portal (+EN/ES) → skill postar-telegram no ARCKHÉ.AGENTES.
 
 ## Mapa de retomada
 - CLAUDE.md — regras do projeto

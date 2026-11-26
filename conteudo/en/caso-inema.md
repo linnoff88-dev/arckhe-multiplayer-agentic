@@ -1,10 +1,10 @@
-# The INEMA case (for discussion)
+# The ARCKHÉ case (for discussion)
 
 Pieces that already exist and would go into the system:
-- Telegram bots: openpcbot v2/v3, inemaytbot, inemaccbot;
+- Telegram bots: openpcbot v2/v3, ARCKHÉytbot, ARCKHÉccbot;
 - several Claude Code and Codex sessions running in parallel on spark-922b, which is always on;
 - queues and timers that publish on their own (Spanish queue, finviral, advviral, Aventuras production);
-- INEMA groups on Telegram that receive posts;
+- ARCKHÉ groups on Telegram that receive posts;
 - council agents (optimist, devil's advocate, neutral) already created.
 
 Possible readings:

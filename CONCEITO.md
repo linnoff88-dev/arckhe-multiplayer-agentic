@@ -35,7 +35,7 @@ O que o vídeo mostra:
 - O próprio vídeo admite que tudo isso já dava para montar antes, só que com mais esforço técnico.
 - A categoria ainda está se formando [5]. O Buzz se declara inacabado [1][3].
 
-**Pergunta aberta:** o ganho principal é colaborar (várias pessoas) ou observar (uma pessoa vendo vários agentes)? No caso INEMA, hoje o segundo parece pesar mais.
+**Pergunta aberta:** o ganho principal é colaborar (várias pessoas) ou observar (uma pessoa vendo vários agentes)? No caso ARCKHÉ, hoje o segundo parece pesar mais.
 
 ---
 
@@ -286,7 +286,7 @@ Os cenários podem funcionar como degraus:
 |---|---|---|
 | **Área piloto** | Um canal com 3–4 pessoas e seus agentes antes de levar para a empresa toda | O vídeo cita que migrar uma unidade por vez funciona melhor do que todos de uma vez |
 | **Agente gerente de projeto** | Lê o kanban, cobra tarefa parada há um dia, faz check-in diário e corrige status desatualizado | Exemplo direto do vídeo, conectado ao ClickUp |
-| **Linha de conteúdo com aprovaçêo** | Pesquisa → rascunho → aprovaçêo no thread → publicaçêo → métrica | É o fluxo de vídeos do INEMA, só que visível |
+| **Linha de conteúdo com aprovaçêo** | Pesquisa → rascunho → aprovaçêo no thread → publicaçêo → métrica | É o fluxo de vídeos do ARCKHÉ, só que visível |
 | **Atendimento supervisionado** | Mensagens de clientes entram no canal, o agente sugere a resposta e o humano libera | Liga com os kits de atendimento (clínica, restaurante, hotel) |
 | **Conselho de agentes** | Agentes com papéis diferentes (otimista, contraditório, neutro) e o dono decidindo | Já existe como subagentes no ambiente |
 | **Onboarding** | Agente da área responde quem acabou de entrar | Precisa de memória por canal |
@@ -314,13 +314,13 @@ Os cenários podem funcionar como degraus:
 
 ---
 
-## 9. O caso INEMA (para discutir)
+## 9. O caso ARCKHÉ (para discutir)
 
 Peças que já existem e entrariam no sistema:
-- bots do Telegram: openpcbot v2/v3, inemaytbot, inemaccbot;
+- bots do Telegram: openpcbot v2/v3, ARCKHÉytbot, ARCKHÉccbot;
 - várias sessões de Claude Code e Codex em paralelo no spark-922b, que fica sempre ligado;
 - filas e timers que publicam sozinhos (fila em espanhol, finviral, advviral, produçêo do Aventuras);
-- grupos INEMA no Telegram que recebem posts;
+- grupos ARCKHÉ no Telegram que recebem posts;
 - agentes-conselho (otimista, advogado do diabo, neutro) já criados.
 
 Leituras possíveis:

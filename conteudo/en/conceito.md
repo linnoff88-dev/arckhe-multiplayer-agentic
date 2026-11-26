@@ -28,4 +28,4 @@ What the video shows:
 - The video itself admits all of this could already be assembled before, just with more technical effort.
 - The category is still forming [5]. Buzz declares itself unfinished [1][3].
 
-**Open question:** is the main gain collaborating (several people) or observing (one person watching several agents)? In the INEMA case, today the second seems to weigh more.
+**Open question:** is the main gain collaborating (several people) or observing (one person watching several agents)? In the ARCKHÉ case, today the second seems to weigh more.

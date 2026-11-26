@@ -26,7 +26,7 @@ links = {
     "seçêo 4": "[base técnica](base-tecnica.html)",
     "seçêo 5": "[questões em aberto](questoes.html)",
     "seçêo 6": "[cenários](cenarios.html)",
-    "seçêo 9": "[caso INEMA](caso-inema.html)",
+    "seçêo 9": "[caso ARCKHÉ](caso-ARCKHÉ.html)",
 }
 def troca(t):
     for a, b in links.items():
@@ -45,7 +45,7 @@ for pre, nome in [("3.", "formas"), ("4.", "base-tecnica"), ("5.", "questoes"),
     k, v = pega(pre)
     grava(nome, k[3:], v)
 k9, v9 = pega("9."); k10, v10 = pega("10.")
-grava("caso-inema", k9[3:], f"{limpa(v9)}\n\n## {k10[4:]}\n\n{limpa(v10)}")
+grava("caso-ARCKHÉ", k9[3:], f"{limpa(v9)}\n\n## {k10[4:]}\n\n{limpa(v10)}")
 _, vf = pega("Fontes")
 grava("fontes", "Fontes", vf)
 

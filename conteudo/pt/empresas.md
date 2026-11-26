@@ -4,7 +4,7 @@
 |---|---|---|
 | **Área piloto** | Um canal com 3–4 pessoas e seus agentes antes de levar para a empresa toda | O vídeo cita que migrar uma unidade por vez funciona melhor do que todos de uma vez |
 | **Agente gerente de projeto** | Lê o kanban, cobra tarefa parada há um dia, faz check-in diário e corrige status desatualizado | Exemplo direto do vídeo, conectado ao ClickUp |
-| **Linha de conteúdo com aprovaçêo** | Pesquisa → rascunho → aprovaçêo no thread → publicaçêo → métrica | É o fluxo de vídeos do INEMA, só que visível |
+| **Linha de conteúdo com aprovaçêo** | Pesquisa → rascunho → aprovaçêo no thread → publicaçêo → métrica | É o fluxo de vídeos do ARCKHÉ, só que visível |
 | **Atendimento supervisionado** | Mensagens de clientes entram no canal, o agente sugere a resposta e o humano libera | Liga com os kits de atendimento (clínica, restaurante, hotel) |
 | **Conselho de agentes** | Agentes com papéis diferentes (otimista, contraditório, neutro) e o dono decidindo | Já existe como subagentes no ambiente |
 | **Onboarding** | Agente da área responde quem acabou de entrar | Precisa de memória por canal |

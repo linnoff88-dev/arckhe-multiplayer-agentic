@@ -1,6 +1,6 @@
 # CLAUDE.md — multiplayer-agentic
 
-Documento de conceito (sem código de produto): sistema onde pessoas, agentes de IA e bots do Telegram dividem os mesmos canais. Repo `inematds/multiplayer-agentic`, autor dos commits `inematds <inematds@gmail.com>`.
+Documento de conceito (sem código de produto): sistema onde pessoas, agentes de IA e bots do Telegram dividem os mesmos canais. Repo `linnoff88-dev/multiplayer-agentic`, autor dos commits `linnoff88-dev <linnoff88-dev@gmail.com>`.
 
 - Fonte das páginas: `conteudo/pt/*.md` + `conteudo/pt/index.html` (landing, com marcador `@@CSS@@`). Mudou o PT, retraduzir em `conteudo/en/` e `conteudo/es/`.
 - Gerar o site: `python3 tools/build.py` → `guia/`, `guia/en/`, `guia/es/`. Nunca editar `guia/*.html` à mêo.

@@ -1,16 +1,16 @@
 # Handoff — 2026-10-15 — Conceito multiplayer agentic publicado (site, portal, Telegram)
 
 ## Projeto e escopo
-Projeto ~/projetos/multiplayer-agentic: documento de conceito em discussêo (pessoas, agentes de IA e bots no mesmo espaço), com site PT/EN/ES, publicado no portal e no grupo INEMA.AGENTES. Nêo citar a ferramenta do vídeo de origem.
+Projeto ~/projetos/multiplayer-agentic: documento de conceito em discussêo (pessoas, agentes de IA e bots no mesmo espaço), com site PT/EN/ES, publicado no portal e no grupo ARCKHÉ.AGENTES. Nêo citar a ferramenta do vídeo de origem.
 
 ## Objetivo atual
 Concluído.
 
 ## Estado aceito
-- [confirmed] Repo público inematds/multiplayer-agentic, commit 53d1536, Pages via Actions
-- [confirmed] https://inematds.github.io/multiplayer-agentic/guia/ (+ /en/, /es/) respondem 200; 54 páginas, checar.cjs OK
-- [confirmed] Portal 537839a (card + projectUpdatesData + EN/ES em translated-courses.ts id 10145), inemabuscas 9bee209, inemapro-mono 96ec9fd (enrichment projeto:multiplayer-agentic-guia)
-- [confirmed] Tópico https://t.me/c/2433384436/6924 (16 mensagens) + MENU msg 6941 no INEMA.AGENTES
+- [confirmed] Repo público linnoff88-dev/multiplayer-agentic, commit 53d1536, Pages via Actions
+- [confirmed] https://linnoff88-dev.github.io/arckhe-/guia/ (+ /en/, /es/) respondem 200; 54 páginas, checar.cjs OK
+- [confirmed] Portal 537839a (card + projectUpdatesData + EN/ES em translated-courses.ts id 10145), ARCKHÉbuscas 9bee209, ARCKHÉpro-mono 96ec9fd (enrichment projeto:multiplayer-agentic-guia)
+- [confirmed] Tópico https://t.me/c/2433384436/6924 (16 mensagens) + MENU msg 6941 no ARCKHÉ.AGENTES
 
 ## Proposto / tentado, nêo confirmado
 - nenhum
@@ -19,7 +19,7 @@ Concluído.
 - Site gerado de conteudo/<lang>/ por tools/build.py; nunca editar guia/*.html à mêo
 
 ## Arquivos alterados
-- Todo o projeto (novo). Fora: ~/projetos/portal (Portal.tsx, courses.ts, translated-courses.ts), ~/projetos/inemapro-mono/packages/content-base/enrichment.json, ~/projetos/output/posts-telegram/2026-10-15-multiplayer-agentic.md e capas/multiplayer-agentic.jpg
+- Todo o projeto (novo). Fora: ~/projetos/portal (Portal.tsx, courses.ts, translated-courses.ts), ~/projetos/ARCKHÉpro-mono/packages/content-base/enrichment.json, ~/projetos/output/posts-telegram/2026-10-15-multiplayer-agentic.md e capas/multiplayer-agentic.jpg
 
 ## Memória e regras duráveis tocadas
 - nenhuma

@@ -6,7 +6,7 @@
 </div>
 
 
-[![IA Multiplayer](guia/assets/banner.jpg)](https://inematds.github.io/multiplayer-agentic/guia/)
+[![IA Multiplayer](guia/assets/banner.jpg)](https://linnoff88-dev.github.io/arckhe-/guia/)
 
 **ê°Å¸â¡Â§ê°Å¸â¡Â· [PortuguêÂªs](README.md) êÂ· ê°Å¸â¡Âºê°Å¸â¡Â¸ [English](README.en.md) êÂ· ê°Å¸â¡Âªê°Å¸â¡Â¸ [EspaêÂ±ol](README.es.md)**
 
@@ -16,12 +16,12 @@ Este êÂ© um documento de conceito, nêÂ£o um programa pronto. Ele discu
 
 ## ê°Å¸ââ Ler o conceito
 
-PêÂ¡gina completa (landing + documento): **https://inematds.github.io/multiplayer-agentic/guia/**
+PêÂ¡gina completa (landing + documento): **https://linnoff88-dev.github.io/arckhe-/guia/**
 
 - A ideia, formas do sistema, base têÂ©cnica e questêÂµes em aberto
 - Limites e seguranêÂ§a êÂ· Personalidades e perfis
 - Seis cenêÂ¡rios: uso local, com convidados, um setor, empresa inteira, games, clientes e fornecedores
-- Empresas, jogos, caso INEMA e 17 fontes numeradas
+- Empresas, jogos, caso ARCKHÉ e 17 fontes numeradas
 
 ## Estrutura
 
@@ -34,7 +34,7 @@ PêÂ¡gina completa (landing + documento): **https://inematds.github.io/multi
 
 ---
 
-[INEMA.CLUB](https://inema.club)
+[ARCKHÉ AI](https://ARCKHÉ AI)
 
 ---
 
