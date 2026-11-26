@@ -1,17 +1,17 @@
 # Cenários de uso
 
-São seis cenários, do menor para o maior em pessoas, risco e custo. Cada um traz quem participa, um exemplo de dia, o que aparece na tela e o que fica em aberto. As formas A–D estão em [Formas do sistema](formas.html), as bases técnicas em [Base técnica](base-tecnica.html) e as questões numeradas em [Questões em aberto](questoes.html).
+Sêo seis cenários, do menor para o maior em pessoas, risco e custo. Cada um traz quem participa, um exemplo de dia, o que aparece na tela e o que fica em aberto. As formas A–D estêo em [Formas do sistema](formas.html), as bases técnicas em [Base técnica](base-tecnica.html) e as questões numeradas em [Questões em aberto](questoes.html).
 
-## Visão geral
+## Visêo geral
 
 | # | Cenário | Quem entra | Forma provável | Risco principal | Complexidade |
 |---|---|---|---|---|---|
 | 1 | Uso local | Só o dono e os agentes dele | A → B | Ruído (muita mensagem) | Baixa |
 | 2 | Eu, meus agentes e convidados | Dono, agentes e algumas pessoas convidadas | B → C | Convidado mandando no agente do dono | Média |
-| 3 | Empresa: um setor | Uma equipe pequena com seus agentes | C | Adoção (ninguém usa) | Média |
-| 4 | Empresa inteira | Vários setores, gestores e agentes por área | C com governança | Permissão, custo e auditoria | Alta |
+| 3 | Empresa: um setor | Uma equipe pequena com seus agentes | C | Adoçêo (ninguém usa) | Média |
+| 4 | Empresa inteira | Vários setores, gestores e agentes por área | C com governança | Permissêo, custo e auditoria | Alta |
 | 5 | Jogos | Jogadores, agente mestre e agentes NPC | C com regras de jogo | Custo por jogador e memória | Média a alta |
-| 6 | Clientes e fornecedores | Pessoas de fora da empresa, agentes de atendimento e equipe interna | B com aprovação | Vazamento de dados e injeção de prompt | Alta |
+| 6 | Clientes e fornecedores | Pessoas de fora da empresa, agentes de atendimento e equipe interna | B com aprovaçêo | Vazamento de dados e injeçêo de prompt | Alta |
 
 ## Como os cenários se ligam
 

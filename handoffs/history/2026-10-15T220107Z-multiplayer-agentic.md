@@ -1,7 +1,7 @@
 # Handoff — 2026-10-15 — Conceito multiplayer agentic publicado (site, portal, Telegram)
 
 ## Projeto e escopo
-Projeto ~/projetos/multiplayer-agentic: documento de conceito em discussão (pessoas, agentes de IA e bots no mesmo espaço), com site PT/EN/ES, publicado no portal e no grupo INEMA.AGENTES. Não citar a ferramenta do vídeo de origem.
+Projeto ~/projetos/multiplayer-agentic: documento de conceito em discussêo (pessoas, agentes de IA e bots no mesmo espaço), com site PT/EN/ES, publicado no portal e no grupo INEMA.AGENTES. Nêo citar a ferramenta do vídeo de origem.
 
 ## Objetivo atual
 Concluído.
@@ -12,11 +12,11 @@ Concluído.
 - [confirmed] Portal 537839a (card + projectUpdatesData + EN/ES em translated-courses.ts id 10145), inemabuscas 9bee209, inemapro-mono 96ec9fd (enrichment projeto:multiplayer-agentic-guia)
 - [confirmed] Tópico https://t.me/c/2433384436/6924 (16 mensagens) + MENU msg 6941 no INEMA.AGENTES
 
-## Proposto / tentado, não confirmado
+## Proposto / tentado, nêo confirmado
 - nenhum
 
 ## Decisões e restrições
-- Site gerado de conteudo/<lang>/ por tools/build.py; nunca editar guia/*.html à mão
+- Site gerado de conteudo/<lang>/ por tools/build.py; nunca editar guia/*.html à mêo
 
 ## Arquivos alterados
 - Todo o projeto (novo). Fora: ~/projetos/portal (Portal.tsx, courses.ts, translated-courses.ts), ~/projetos/inemapro-mono/packages/content-base/enrichment.json, ~/projetos/output/posts-telegram/2026-10-15-multiplayer-agentic.md e capas/multiplayer-agentic.jpg
@@ -24,17 +24,17 @@ Concluído.
 ## Memória e regras duráveis tocadas
 - nenhuma
 
-## Verificação
+## Verificaçêo
 - Rodado: node tools/checar.cjs → OK nos 3 idiomas; curl nas URLs do Pages → 200; npm test do portal ok; publica.sh → 3 pushes; postar_topico.py --enviar → tópico criado
-- Não rodado: leitura de volta do tópico por nova conexão (saída do script já confirmou 16 mensagens)
+- Nêo rodado: leitura de volta do tópico por nova conexêo (saída do script já confirmou 16 mensagens)
 
-## Estado em execução
+## Estado em execuçêo
 - nenhum
 
 ## Perguntas abertas e adiados
-- Aberta: perguntas de discussão do documento (forma, base, primeiro cenário) — para o Nei
+- Aberta: perguntas de discussêo do documento (forma, base, primeiro cenário) — para o Nei
 
-## Próxima ação exata
+## Próxima açêo exata
 Nenhuma até o Nei escolher o caminho.
 
 ## Mapa de retomada

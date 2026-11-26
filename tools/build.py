@@ -2,7 +2,7 @@
 """Gera as páginas de conteúdo do guia a partir de conteudo/<lang>/*.md.
 
 PT -> guia/<pagina>.html · EN -> guia/en/<pagina>.html · ES -> guia/es/<pagina>.html
-O guia/index.html (landing) é escrito à mão e não é tocado aqui.
+O guia/index.html (landing) é escrito à mêo e nêo é tocado aqui.
 Uso: python3 tools/build.py
 """
 import html, pathlib, re
@@ -20,7 +20,7 @@ ORDEM = ["conceito", "formas", "base-tecnica", "questoes", "limites-seguranca", 
 TXT = {
     "pt": dict(html="pt-BR", dir="", guia="Guia", conceito="Conceito", cenarios="Cenários",
                fontes="Fontes", paginas="Páginas", ant="Anterior", prox="Próxima",
-               tema="Alternar tema", nota="Documento de conceito em discussão"),
+               tema="Alternar tema", nota="Documento de conceito em discussêo"),
     "en": dict(html="en", dir="en/", guia="Guide", conceito="Concept", cenarios="Scenarios",
                fontes="Sources", paginas="Pages", ant="Previous", prox="Next",
                tema="Toggle theme", nota="Concept document under discussion"),

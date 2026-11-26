@@ -4,14 +4,14 @@
 
 **Um dia típico**
 - 06:00 a fila em espanhol publica um vídeo → evento "publicado" com link.
-- 08:00 o advviral gera o radar → evento com prévia e botão "ver".
+- 08:00 o advviral gera o radar → evento com prévia e botêo "ver".
 - 10:00 um pedido chega pelo bot v3 → evento "pedido recebido", depois "agente X pegou", depois "terminou".
-- 14:00 uma sessão de Claude trava → evento de alerta.
+- 14:00 uma sessêo de Claude trava → evento de alerta.
 - 21:00 resumo do dia: o que entrou, o que saiu e o que falhou.
 
 **O que aparece na tela**
 - Canais por origem: `#telegram`, `#agentes`, `#filas`, `#publicações`, `#alertas`.
-- Filtros por agente, bot e período; destaque só para o que pede ação.
+- Filtros por agente, bot e período; destaque só para o que pede açêo.
 
 **Possibilidades**
 - **1a:** painel só de leitura (forma A).
@@ -20,4 +20,4 @@
 
 **Em aberto:** quanto barulho é aceitável? É preciso um agente que resuma o fluxo?
 
-**Faz sentido quando:** o problema é "não sei o que está rodando nem o que chegou".
+**Faz sentido quando:** o problema é "nêo sei o que está rodando nem o que chegou".

@@ -1,6 +1,6 @@
 # Fontes
 
-Buscas feitas em 15/10/2026. Várias são secundárias (notícias, diretórios, resumos) e estão marcadas assim.
+Buscas feitas em 15/10/2026. Várias sêo secundárias (notícias, diretórios, resumos) e estêo marcadas assim.
 
 1. The New Stack — *Block Buzz agent workspace*. https://thenewstack.io/block-buzz-agent-workspace
 2. The Next Web — *Jack Dorsey's Block takes on Slack with Buzz, a workspace for humans and AI agents*. https://thenextweb.com/news/block-buzz-humans-ai-agents-workspace
@@ -11,7 +11,7 @@ Buscas feitas em 15/10/2026. Várias são secundárias (notícias, diretórios, 
 7. Libraries.io — *MindRoom* (agentes como contas Matrix). https://libraries.io/pypi/mindroom
 8. ADMIN Magazine — *Zulip, Mattermost, and Rocket.Chat* (comparativo; Macro Chat e Buzz citados na mesma busca). https://www.admin-magazine.com/Archive/2025/86/Zulip-Mattermost-and-Rocket.Chat/(offset)/6
 9. MLOps Community — *Building multi-player AI systems with MeshAgent*. https://home.mlops.community/public/videos/building-multi-player-ai-systems-with-meshagent-tula-masterman-agents-in-production-2025-2025-07-31
-10. Claude Code Channels (Anthropic, mar/2026), citado em resumo de busca sem página primária aberta — **conferir na documentação oficial**.
+10. Claude Code Channels (Anthropic, mar/2026), citado em resumo de busca sem página primária aberta — **conferir na documentaçêo oficial**.
 11. Mastra — *Build Multiplayer Agents with Mastra Channels*. https://luma.com/mastra-yu9a
 12. Glama — *Claude Slack* (MCP). https://glama.ai/mcp/servers/theo-nash/claude-slack
 13. Linkgo — *Gradient Bang AI agents* (diretório; secundária). https://linkgo.dev/tools/gradient-bang-ai-agents-2026-05-18

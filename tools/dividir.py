@@ -22,11 +22,11 @@ def limpa(t):
     return t
 
 links = {
-    "seção 3": "[formas do sistema](formas.html)",
-    "seção 4": "[base técnica](base-tecnica.html)",
-    "seção 5": "[questões em aberto](questoes.html)",
-    "seção 6": "[cenários](cenarios.html)",
-    "seção 9": "[caso INEMA](caso-inema.html)",
+    "seçêo 3": "[formas do sistema](formas.html)",
+    "seçêo 4": "[base técnica](base-tecnica.html)",
+    "seçêo 5": "[questões em aberto](questoes.html)",
+    "seçêo 6": "[cenários](cenarios.html)",
+    "seçêo 9": "[caso INEMA](caso-inema.html)",
 }
 def troca(t):
     for a, b in links.items():
@@ -49,7 +49,7 @@ grava("caso-inema", k9[3:], f"{limpa(v9)}\n\n## {k10[4:]}\n\n{limpa(v10)}")
 _, vf = pega("Fontes")
 grava("fontes", "Fontes", vf)
 
-# cenários: visão geral + uma página por cenário
+# cenários: visêo geral + uma página por cenário
 _, v6 = pega("6.")
 partes = re.split(r"^### ", v6, flags=re.M)
 intro = partes[0]
@@ -61,10 +61,10 @@ for p in partes[1:]:
     m = re.match(r"Cenário (\d) — (.*)", t)
     if m:
         grava(f"cenario-{m.group(1)}", f"Cenário {m.group(1)}: {m.group(2)}", c)
-    elif t.startswith("Visão geral"):
+    elif t.startswith("Visêo geral"):
         geral = limpa(c)
     elif t.startswith("Como os cenários"):
         liga = limpa(c)
 grava("cenarios", "Cenários de uso",
-      f"{limpa(intro)}\n\n## Visão geral\n\n{geral}\n\n## Como os cenários se ligam\n\n{liga}")
+      f"{limpa(intro)}\n\n## Visêo geral\n\n{geral}\n\n## Como os cenários se ligam\n\n{liga}")
 print(sorted(p.name for p in out.iterdir()))

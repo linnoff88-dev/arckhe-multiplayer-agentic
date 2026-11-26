@@ -37,7 +37,7 @@ O vídeo mostra agentes hospedados com três níveis. A diferença de custo é a
 | Pro | raciocínio, análise, decisões | metade do máximo |
 | Máximo | sistemas complexos, engenharia, design | referência (o autor diz que usa o modelo mais forte disponível) |
 
-**Possibilidade:** montar o time por nível, com um agente rápido de recepção, agentes pro para análise e um máximo só para o trabalho pesado. Isso controla custo sem perder qualidade onde ela importa.
+**Possibilidade:** montar o time por nível, com um agente rápido de recepçêo, agentes pro para análise e um máximo só para o trabalho pesado. Isso controla custo sem perder qualidade onde ela importa.
 
 ## 4. Arquétipos de personalidade
 
@@ -49,23 +49,23 @@ Personalidades que fazem sentido num espaço compartilhado:
 | **Especialista** | Faz uma coisa só, bem feita (design, código, texto, dados) | Setor e empresa |
 | **Gerente de projeto** | Cobra prazo, faz check-in diário, marca quem está atrasado | Setor e empresa |
 | **Conselho** | Otimista, advogado do diabo e neutro discutem antes de o humano decidir | Decisões importantes |
-| **Revisor** | Confere o trabalho dos outros agentes antes de chegar ao humano | Qualquer fluxo com publicação |
+| **Revisor** | Confere o trabalho dos outros agentes antes de chegar ao humano | Qualquer fluxo com publicaçêo |
 | **Recepcionista** | Primeiro contato com cliente ou fornecedor, com o tom da marca | Cenário 6 |
 | **Mestre de jogo** | Narra, aplica regras e mantém o mundo coerente | Cenário 5 |
-| **NPC** | Personagem com história, motivação e memória própria | Cenário 5; cada jogador conversa em privado com ele [14] |
+| **NPC** | Personagem com história, motivaçêo e memória própria | Cenário 5; cada jogador conversa em privado com ele [14] |
 | **Tutor** | Ensina, cobra entrega e libera a próxima fase | Curso como jogo |
-| **Gêmeo do dono** | Fala como o dono, com o conhecimento dele, quando o dono não está | Cenário 2; o vídeo descreve o desejo de que colegas pudessem "escrever para o meu sistema de IA" |
+| **Gêmeo do dono** | Fala como o dono, com o conhecimento dele, quando o dono nêo está | Cenário 2; o vídeo descreve o desejo de que colegas pudessem "escrever para o meu sistema de IA" |
 
 ## 5. Como a personalidade se combina com as regras
 
-- **A personalidade nunca passa por cima dos limites.** Um agente "provocador" continua sem poder publicar sem aprovação. (Ver [Limites e segurança](limites-seguranca.html).)
-- **A personalidade fica num arquivo**, editável pelo dono, e não espalhada em prompts.
-- **Toda personalidade se identifica como agente.** A exceção possível é um jogo de dedução em que todos conhecem a regra antes.
-- **Coerência:** a mesma personalidade em todos os canais, ou uma variação por canal (mais formal com cliente, mais solta com o time)?
+- **A personalidade nunca passa por cima dos limites.** Um agente "provocador" continua sem poder publicar sem aprovaçêo. (Ver [Limites e segurança](limites-seguranca.html).)
+- **A personalidade fica num arquivo**, editável pelo dono, e nêo espalhada em prompts.
+- **Toda personalidade se identifica como agente.** A exceçêo possível é um jogo de deduçêo em que todos conhecem a regra antes.
+- **Coerência:** a mesma personalidade em todos os canais, ou uma variaçêo por canal (mais formal com cliente, mais solta com o time)?
 
 ## 6. Riscos
 
-- **Personalidade forte demais:** o agente "dono da verdade" atropela a decisão humana.
+- **Personalidade forte demais:** o agente "dono da verdade" atropela a decisêo humana.
 - **Gêmeo do dono:** responder como o dono, sem ele saber, pode comprometê-lo. Sempre deixar claro que é o agente falando.
 - **NPC sem memória:** personagem que esquece o que disse quebra o jogo. Memória longa ainda é um gargalo [16].
 - **Muitas personalidades no mesmo canal:** viram ruído. Melhor poucos agentes com papéis claros.
